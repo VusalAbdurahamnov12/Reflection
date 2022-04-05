@@ -1,0 +1,14 @@
+E:\homework\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+E:\homework\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+E:\homework\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+E:\homework\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+E:\homework\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+E:\homework\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.AssemblyReference.cache
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+E:\homework\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache
